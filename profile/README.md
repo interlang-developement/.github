@@ -10,4 +10,4 @@ You can check our repo for our progress, our plan is to go from 2.7 step by step
 
 We are just started, please don't expect much in the repo.
 
-Our work might be unwelcomed, if the original team is not suggesting us to do this we are happy to close this project.
+Our work might be unwelcomed, if the original team is not suggesting us to do this we are fine to close this project.
