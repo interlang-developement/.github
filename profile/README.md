@@ -1,4 +1,4 @@
-# Hi there 👋, here's InterPython Team 👨‍💻
+# Hi there 👋, here's InterLang Team 👨‍💻
 
 You might notice the stop of Jython at 2.7, and Python 2.7 is the end of support, even though Jython 3 is in the plan, we all know that the fact that there isn't any progress in the main repo, and no ETAs.
 
